@@ -1,0 +1,18 @@
+{
+  "name": "donwu",
+  "version": "1.0.0",
+  "description": "excel operation",
+  "main": "readExcel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "don wu",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^2.0.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.4",
+    "promise": "^7.1.1",
+    "xlsx": "^0.10.3"
+  }
+}
